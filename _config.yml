@@ -30,13 +30,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
-  
+
 # Navigation
 header_pages:
   - predictions.markdown
   - portfolios.markdown
   - performance.markdown
   - signup.markdown
+
+# Google Analytics
+google_analytics: G-83GCQR5NLB
 
 # Exclude from processing.
 # The following items will not be processed, by default.
