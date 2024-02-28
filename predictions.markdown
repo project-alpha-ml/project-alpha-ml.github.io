@@ -10,11 +10,17 @@ permalink: /predictions/
 </div>
 
 <div id="Prediction1" class="tabcontent">
-  <iframe title="Stocks Expected to Gain +4.0% or More" aria-label="Table" src="https://datawrapper.dwcdn.net/Hx7ah" scrolling="yes" frameborder="0" style="width: 100%; border: none;" height="750"></iframe>
+  <iframe title="Stocks Expected to Gain +4.0% or More" aria-label="Table" id="datawrapper-chart-Hx7ah" src="https://datawrapper.dwcdn.net/Hx7ah" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300" data-external="1">
+  </iframe>
+  <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+  </script>
 </div>
 
 <div id="Prediction2" class="tabcontent" style="display:none;">
-  <iframe title="Stocks Expected to Pull Back -1.5% or More" aria-label="Table" src="https://datawrapper.dwcdn.net/mXOqs" scrolling="yes" frameborder="0" style="width: 100%; border: none;" height="750"></iframe>
+  <iframe title="Stocks Expected to Pull Back -1.5% or More" aria-label="Table" id="datawrapper-chart-mXOqs" src="https://datawrapper.dwcdn.net/mXOqs" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300" data-external="1">
+  </iframe>
+  <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+  </script>
 </div>
 
 <script>

@@ -11,18 +11,24 @@ permalink: /portfolios/
 </div>
 
 <div id="Portfolio1" class="tabcontent">
-  <iframe title="PAE Portfolio Holdings" aria-label="Table" src="https://datawrapper.dwcdn.net/bFCvw" scrolling="yes" frameborder="0" style="width: 100%; border: none;" height="600">
+  <iframe title="PAE Portfolio Holdings" aria-label="Table" id="datawrapper-chart-bFCvw" src="https://datawrapper.dwcdn.net/bFCvw" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300" data-external="1">
   </iframe>
+  <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+  </script>
 </div>
 
 <div id="Portfolio2" class="tabcontent" style="display:none;">
-  <iframe title="PAE.CORE Portfolio Holdings" aria-label="Table" src="https://datawrapper.dwcdn.net/zN5VG" scrolling="yes" frameborder="0" style="width: 100%; border: none;" height="600">
+  <iframe title="PAE.CORE Portfolio Holdings" aria-label="Table" id="datawrapper-chart-zN5VG" src="https://datawrapper.dwcdn.net/zN5VG" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300" data-external="1">
   </iframe>
+  <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+  </script>
 </div>
 
 <div id="Portfolio3" class="tabcontent" style="display:none;">
-  <iframe title="PAE.ROTA Portfolio Holdings" aria-label="Table" src="https://datawrapper.dwcdn.net/lysIw" scrolling="yes" frameborder="0" style="width: 100%; border: none;" height="600">
+  <iframe title="PAE.ROTA Portfolio Holdings" aria-label="Table" id="datawrapper-chart-lysIw" src="https://datawrapper.dwcdn.net/lysIw" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300" data-external="1">
   </iframe>
+  <script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+  </script>
 </div>
 
 <script>
