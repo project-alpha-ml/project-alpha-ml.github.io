@@ -20,13 +20,13 @@ Project Alpha explores active investing in the US stock market using advanced ma
 ## Explore the Work
 
 - **[Predictions](/predictions)**: Find predictions for stocks expected to make significant moves in the next 10 trading days, updated daily before the US market opens.
-- **[Portfolios](/portfolios)**: Discover the composition of each portfolio, updated daily at close of US market.
-- **[Performance](/performance)**: View the cumulative performance of the portfolios against the S&P 500 TR, updated daily at close of US market.
+- **[Portfolios](/portfolios)**: Discover the composition of each portfolio, updated hourly during regular US market hours.
+- **[Performance](/performance)**: View the cumulative performance of the portfolios against the S&P 500 TR, updated hourly during regular US market hours.
 - **[Sign Up](/signup)**: Subscribe to the mailing list for future updates.
 
 ## A Note to Visitors
 
-Due to the execution of the strategies, daily portfolio returns are not expected to be uncorrelated with the S&P 500 index. All trades are conducted in a simulated environment allowing for realistic trade executions and portfolio management without financial risk.
+Due to the execution of the strategies, the daily returns of the three portfolios are not expected to be uncorrelated, either with the S&P 500 index or with each other. All trades are conducted in a simulated environment allowing for realistic trade executions and portfolio management without financial risk.
 
 Project Alpha's viability will be reevaluated annually. Your feedback is always appreciated.
 
