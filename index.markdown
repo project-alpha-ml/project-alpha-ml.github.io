@@ -26,7 +26,7 @@ Project Alpha explores active investing in the US stock market using advanced ma
 
 ## A Note to Visitors
 
-All trades are conducted in a simulated environment allowing for realistic trade execution and portfolio management without financial risk.
+Due to the execution of the strategies, daily portfolio returns are not expected to be uncorrelated with the S&P 500 index. All trades are conducted in a simulated environment allowing for realistic trade executions and portfolio management without financial risk.
 
 Project Alpha's viability will be reevaluated annually. Your feedback is always appreciated.
 
