@@ -39,7 +39,7 @@ header_pages:
   - signup.markdown
 
 # Google Analytics
-google_analytics: G-83GCQR5NLB
+# google_analytics: G-83GCQR5NLB
 
 # Exclude from processing.
 # The following items will not be processed, by default.
