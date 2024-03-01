@@ -14,14 +14,15 @@ Project Alpha explores active investing in the U.S. stock market using advanced 
 
 ### Execution
 
-- Trades are made only on the 150-200 highest market cap stocks from the S&P 500, selected for their significant market influence and stability.
+- Orders are submitted daily at regular U.S. market open.
+- The universe of stocks to choose from contains only the 150-200 highest market cap stocks from the S&P 500, selected for their significant market influence and stability.
 - All portfolios operate without leverage, using exclusively long positions.
 
 ## Explore the Work
 
-- **[Predictions](/predictions)**: Find predictions for stocks expected to make significant moves in the next 10 trading days, updated daily before the U.S. market opens.
-- **[Portfolios](/portfolios)**: Discover the composition of each portfolio, updated hourly during standard U.S. market hours.
-- **[Performance](/performance)**: View the cumulative performance of each portfolio against the S&P 500 TR, updated hourly during standard U.S. market hours.
+- **[Predictions](/predictions)**: Find predictions for stocks expected to make significant moves in the next 10 trading days, updated daily before the start of regular U.S. market trading hours.
+- **[Portfolios](/portfolios)**: Discover the composition of each portfolio, updated hourly during regular U.S. market trading hours.
+- **[Performance](/performance)**: View the cumulative performance of each portfolio against the S&P 500 TR, updated hourly during regular U.S. market trading hours.
 - **[Sign Up](/signup)**: Subscribe to the mailing list for future updates.
 
 ## A Note to Visitors
