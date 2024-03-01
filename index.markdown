@@ -3,7 +3,7 @@ layout: default
 ---
 ## About
 
-Project Alpha explores active investing in the US stock market using advanced machine learning and rules-based strategies. The project aims to devise profitable strategies by extracting patterns from an extensive dataset, comprising price data, news sentiment, fundamental data, corporate actions, and macroeconomic data. All data are sourced from publicly available, free APIs.
+Project Alpha explores active investing in the U.S. stock market using advanced machine learning and rules-based strategies. The project aims to devise profitable strategies by extracting patterns from an extensive dataset, comprising price data, news sentiment, fundamental data, corporate actions, and macroeconomic data. All data are sourced from publicly available, free APIs.
 
 ## Approach
 
@@ -19,9 +19,9 @@ Project Alpha explores active investing in the US stock market using advanced ma
 
 ## Explore the Work
 
-- **[Predictions](/predictions)**: Find predictions for stocks expected to make significant moves in the next 10 trading days, updated daily before the US market opens.
-- **[Portfolios](/portfolios)**: Discover the composition of each portfolio, updated hourly during regular US market hours.
-- **[Performance](/performance)**: View the cumulative performance of the portfolios against the S&P 500 TR, updated hourly during regular US market hours.
+- **[Predictions](/predictions)**: Find predictions for stocks expected to make significant moves in the next 10 trading days, updated daily before the U.S. market opens.
+- **[Portfolios](/portfolios)**: Discover the composition of each portfolio, updated hourly during standard U.S. market hours.
+- **[Performance](/performance)**: View the cumulative performance of each portfolio against the S&P 500 TR, updated hourly during standard U.S. market hours.
 - **[Sign Up](/signup)**: Subscribe to the mailing list for future updates.
 
 ## A Note to Visitors
