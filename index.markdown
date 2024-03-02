@@ -27,8 +27,9 @@ Project Alpha explores active investing in the U.S. stock market using advanced 
 
 ## A Note to Visitors
 
-Due to the execution of the strategies, the daily returns of the three portfolios are not expected to be uncorrelated, either with the S&P 500 index or with each other. All trades are conducted in a simulated environment allowing for realistic trade executions and portfolio management without financial risk.
+- The [strategies](#strategies) are not expected to be market neutral. Consequently, due to the [execution](#execution) of these strategies, daily portfolio returns are anticipated to exhibit a small to moderate degree of correlation with each other and with the S&P 500 index.
+- All trades are conducted in a simulated environment allowing for realistic trade executions and portfolio management without financial risk.
 
-Project Alpha's viability will be reevaluated annually. Your feedback is always appreciated.
+Project Alpha's viability will be reevaluated annually. Your feedback is appreciated.
 
 **Thank you for visiting!**
