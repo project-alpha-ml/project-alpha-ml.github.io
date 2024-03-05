@@ -22,12 +22,12 @@ Project Alpha explores active investing in the U.S. stock market using advanced 
 
 - **[Predictions](/predictions)**: Find predictions for stocks expected to make significant moves in the next 10 trading days, updated daily before the start of regular U.S. market trading hours.
 - **[Portfolios](/portfolios)**: Discover the composition of each portfolio, updated hourly during regular U.S. market trading hours.
-- **[Performance](/performance)**: View the cumulative performance of each portfolio against the S&P 500 TR, updated hourly during regular U.S. market trading hours.
+- **[Performance](/performance)**: View the cumulative performance of each portfolio against the [S&P 500 TR](https://www.google.com/finance/quote/SP500TR:INDEXSP), updated hourly during regular U.S. market trading hours.
 - **[Sign Up](/signup)**: Subscribe to the mailing list for future updates.
 
 ## A Note to Visitors
 
-- The [strategies](#strategies) are not expected to be market neutral. Consequently, due to the [execution](#execution) of these strategies, daily portfolio returns are anticipated to exhibit a small to moderate degree of correlation with each other and with the S&P 500 index.
+- The [strategies](#strategies) are not expected to be [market neutral](https://www.investopedia.com/terms/m/marketneutral.asp). Consequently, due to the [execution](#execution) of these strategies, daily portfolio returns are expected to exhibit a moderate degree of correlation with each other and with the S&P 500 index.
 - All trades are conducted in a simulated environment allowing for realistic trade executions and portfolio management without financial risk.
 
 Project Alpha's viability will be reevaluated annually. Your feedback is appreciated.
