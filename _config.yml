@@ -23,7 +23,7 @@ email: projectalpha.ml [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
   Exploring Active Investing: A Long-Term Comparison of Machine Learning & Rule-Based Strategies Against the S&P 500 Index
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://projectalphaml.com" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username: project-alpha-ml
 
 # Build settings
