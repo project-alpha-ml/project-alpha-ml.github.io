@@ -16,7 +16,7 @@ Project Alpha explores active investing in the U.S. stock market using advanced 
 
 - Orders are submitted daily at regular U.S. market open.
 - The universe of stocks to choose from contains only the 150-200 highest market cap stocks from the S&P 500, selected for their significant market influence and stability.
-- All portfolios operate without leverage, using exclusively long positions.
+- All portfolios trade without leverage, using exclusively long positions.
 
 ## Explore the Work
 
