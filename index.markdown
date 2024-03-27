@@ -3,14 +3,14 @@ layout: default
 ---
 ## About
 
-Project Alpha explores active investing in the U.S. stock market using advanced machine learning and rules-based strategies. The project aims to devise profitable strategies by extracting patterns from an extensive dataset, comprising price data, news sentiment, fundamental data, corporate actions, and macroeconomic data. All data are sourced from publicly available, free APIs.
+Project Alpha explores active investing in the U.S. stock market using advanced machine learning and rule-based strategies. The project aims to devise profitable strategies by extracting patterns from an extensive dataset, comprising price data, news sentiment, fundamental data, corporate actions, and macroeconomic data. All data are sourced from publicly available, free APIs.
 
 ## Approach
 
 ### Strategies
 
 - **Machine Learning Strategies**: The portfolios, PAE and PAE.CORE, use predictions generated daily to make trades. The models are retrained daily and hyperparameters are retuned at least monthly or in response to significant corporate actions. While both strategies use the same predictions, PAE.CORE is more risk-averse, aiming for reduced volatility compared to PAE.
-- **Rules-Based Strategy**: The PAE.ROTA portfolio follows predefined rules and thresholds, offering a contrast to ML-driven strategies.
+- **Rule-Based Strategy**: The PAE.ROTA portfolio follows predefined rules and thresholds, offering a contrast to ML-driven strategies.
 
 ### Execution
 
