@@ -21,7 +21,7 @@ Project Alpha explores active investing in the U.S. stock market using advanced 
 ## Explore the Work
 
 - **[Predictions](/predictions)**: Find predictions for stocks expected to make significant moves in the next 10 trading days, updated daily before the start of regular U.S. market trading hours.
-- **[Portfolios](/portfolios)**: Discover the composition of each portfolio, updated hourly during regular U.S. market trading hours.
+- **[Portfolios](/portfolios)**: View the composition and transaction history of each portfolio, updated hourly during regular U.S. market trading hours.
 - **[Performance](/performance)**: View the cumulative performance of each portfolio against the [S&P 500 TR](https://www.google.com/finance/quote/SP500TR:INDEXSP), updated hourly during regular U.S. market trading hours.
 
 ## Share Your Thoughts
